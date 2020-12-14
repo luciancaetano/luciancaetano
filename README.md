@@ -27,7 +27,10 @@
 </p>
 
 <h3> My Projects </h3>
-- https://github.com/luciancaetano/scriptmizer - Simplet Task Runner Like Test Runners.🚀
+<ul>
+  <li>https://github.com/luciancaetano/scriptmizer - Simplet Task Runner Like Test Runners.🚀</li>
+  <li>https://github.com/luciancaetano/base-react-typescript-project - Structured and Organized ReactJS Project Starter (my CodeBase)</li>
+</ul>
 
 <h3>Where to find me</h3>
 <p>
