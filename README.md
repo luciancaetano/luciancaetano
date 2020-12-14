@@ -28,8 +28,8 @@
 
 <h3> My Projects </h3>
 <ul>
-  <li><a href="https://www.npmjs.com/package/scriptmizer">Scriptmizer</a> - Simple Task Runner Like Test Runners.🚀</li>
-  <li><a href="https://github.com/luciancaetano/base-react-typescript-project">base-react-typescript-project</a> - Structured and Organized ReactJS Project Starter (my CodeBase)</li>
+  <li><a href="https://www.npmjs.com/package/scriptmizer" target="_blank">Scriptmizer</a> - Simple Task Runner Like Test Runners.🚀</li>
+  <li><a href="https://github.com/luciancaetano/base-react-typescript-project" target="_blank">base-react-typescript-project</a> - Structured and Organized ReactJS Project Starter (my CodeBase)</li>
 </ul>
 
 <h3>Where to find me</h3>
