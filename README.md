@@ -26,6 +26,9 @@
   <img alt="Laravel" src="https://img.shields.io/badge/-GO-7fd5ea?style=flat-square&logo=Go&logoColor=333" />
 </p>
 
+<h3> My Projects </h3>
+- https://github.com/luciancaetano/scriptmizer - Simplet Task Runner Like Test Runners.🚀
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/luciancaetano" target="_blank">
