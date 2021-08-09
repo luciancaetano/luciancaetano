@@ -32,7 +32,7 @@
   <li><a href="https://github.com/luciancaetano/base-react-typescript-project" target="_blank">⭐ base-react-typescript-project</a> - Structured and Organized ReactJS Project Starter (my CodeBase)</li>
     <li><a href="https://github.com/luciancaetano/ts-rollup-starter" target="_blank">ts-rollup-starter</a> - Typescript Project Using Rollup</li>
     <li><a href="https://github.com/luciancaetano/electron-react-typescript" target="_blank">electron-react-typescript</a> - Starter Project With Combination of Webpack, React, Typescript and Electron</li>
-  <li><a href="https://github.com/luciancaetano/base-next-typescript-project" target="_blank">base-next-typescript-project</a> - ⭐ base-react-typescript-project</a> - Structured and Organized ReactJS Project Starter (my next.js CodeBase version)</li>
+  <li><a href="https://github.com/luciancaetano/base-next-typescript-project" target="_blank">⭐ base-next-typescript-project</a> -  base-react-typescript-project</a> - Structured and Organized ReactJS Project Starter (my next.js CodeBase version)</li>
 </ul>
 
 
