@@ -1,7 +1,7 @@
 <h1>Hi, my name is Lucian Caetano.</h1>
 
 
-<p>Welcome to my Github!</br> I'm Lucian Caetano, Fullstack developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" width="13"/> <b>currently living in Ourinhos, São Paulo - Brazil.</b></p>
+<p>Welcome to my Github!</br> I'm Lucian Caetano, Fullstack developer and a depp learn enthusiast</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
