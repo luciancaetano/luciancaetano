@@ -33,7 +33,7 @@
   <li><a href="https://github.com/luciancaetano/react-next-codebase-mvvm" target="_blank">⭐ react-next-codebase-mvvm</a> - Structured and Organized Next.js Project Starter (my Next.js CodeBase)</li>
     <li><a href="https://github.com/luciancaetano/ts-rollup-starter" target="_blank">ts-rollup-starter</a> - Typescript Project Using Rollup</li>
     <li><a href="https://github.com/luciancaetano/electron-react-typescript" target="_blank">electron-react-typescript</a> - Starter Project With Combination of Webpack, React, Typescript and Electron</li>
-  </s><li><a href="https://github.com/luciancaetano/base-next-typescript-project" target="_blank">⭐ <s>base-next-typescript-project</a> -  base-react-typescript-project</a> - Structured and Organized ReactJS Project Starter (my next.js CodeBase version)</li>
+  </s><li><a href="https://github.com/luciancaetano/base-next-typescript-project" target="_blank"><s>base-next-typescript-project</a> -  base-react-typescript-project</a> - Structured and Organized ReactJS Project Starter (my next.js CodeBase version)</li>
   <li><s><a href="https://www.npmjs.com/package/scriptails" target="_blank">Scriptails</a> - Simple Task Runner Like Test Runners</s></li>
 </ul>
 
